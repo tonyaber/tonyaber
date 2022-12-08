@@ -1,7 +1,4 @@
-<img
-  src="https://github.com/tonyaber/tonyaber/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
+[![wakatime](https://wakatime.com/badge/user/4d615465-e0fd-4949-97cd-3e87fb7c0f6d.svg)](https://wakatime.com/@4d615465-e0fd-4949-97cd-3e87fb7c0f6d)
 
 
 <!--
