@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/4d615465-e0fd-4949-97cd-3e87fb7c0f6d.svg)](https://wakatime.com/@4d615465-e0fd-4949-97cd-3e87fb7c0f6d)
-
+<a href="https://www.codewars.com/users/tonyaber/"><img height="30" src='https://www.codewars.com/users/tonyaber/badges/large'></a>
 
 <!--
 **tonyaber/tonyaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
