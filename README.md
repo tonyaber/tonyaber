@@ -29,7 +29,7 @@
 ### :desktop_computer:	 Projects
 - :clapper: [Movie](https://github.com/tonyaber/movie-app-react) - app about movies. Stack: 
   - React, React Router, Styled Components
-  - Work with api
+  - REST API
 - :christmas_tree: [Сhristmas-task](https://github.com/tonyaber/christmas-task) is a game where you can choose toys and decorate the Christmas tree with them. You can also download a postcard with your holiday tree.  Stack: 
   - OOP, Single-page application, MVC
   - filtering and search (similar to an online store)
@@ -38,6 +38,7 @@
    - OOP, Single-page application, MVC
 - :world_map: [Big trip](https://github.com/tonyaber/804273-big-trip-14) is the travel planning site
    - OOP, Single-page application, MVC
+   - REST API
    - Chart.js (statistics), Flatpickr (calendar), Dayjs
 - :clock12: [Momentum](https://github.com/tonyaber/momentum) is an analogue of the Chrome Web Store application of the same name. 
 - :framed_picture: [Museum](https://github.com/tonyaber/museum) is an educational project from Rs School. CSS and HTML
