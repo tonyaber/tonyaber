@@ -48,6 +48,7 @@
    -  Bots with game logic
    -  Written game scenario, adding new objects, battles, killing units and buildings. Units have a logic, when the enemy approaches, they attack him, when they lose their target, they look for a new one.
    -  Different units have different target, attack power, radius (depending on unit type)
+   -  The algorithm for moving units has been implemented
    -  Disadvantages: non-optimized image, display speed decreases over time. We were unable to optimize the canvas, which is why the project was not completed
 
 <a href="https://www.codewars.com/users/tonyaber/"><img height="30" src='https://www.codewars.com/users/tonyaber/badges/micro'></a>
