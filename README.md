@@ -2,6 +2,11 @@
 
  I have quite a lot of ready-made projects, the total time I wrote the code is: [![wakatime](https://wakatime.com/badge/user/4d615465-e0fd-4949-97cd-3e87fb7c0f6d.svg)](https://wakatime.com/@4d615465-e0fd-4949-97cd-3e87fb7c0f6d)
  
+ ### :telephone_receiver: Contact me
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/antonina-berchuk/)
+
+:envelope: [Email](mailto:tonyaberch@gmail.com)
+
 ### :woman_student: My education
 - [The Rolling Scopes School](https://app.rs.school/certificate/ahuwi9j0)
 - [HTML Academy](https://assets.htmlacademy.ru/certificates/intensive/181/804273.pdf)
