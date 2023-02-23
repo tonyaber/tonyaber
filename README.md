@@ -32,6 +32,14 @@
 
 
 ### :desktop_computer:	 Projects
+- :anchor: [BattleShip](https://github.com/tonyaber/battleship/) - game, group project. Stack:
+  - React, React Toolkit
+  - TypeScript
+  - Multiplayer and singleplayer
+  - Bot logic
+  - Server: WebSocket
+  - Styled Components
+  - Canvas
 - :clapper: [Movie](https://github.com/tonyaber/movie-app-react) - app about movies. Stack: 
   - React, React Router, Styled Components
   - REST API
