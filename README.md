@@ -17,6 +17,7 @@
 ### :woman_technologist: My stack
 - JavaScript, TypeScript, React, Redux Toolkit
 - HTML, CSS
+- Sass, Scss
 - Git
 - Webpack
 - server: WebSocket, Express
