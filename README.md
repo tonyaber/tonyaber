@@ -18,6 +18,7 @@
 - JavaScript, TypeScript, React, Redux Toolkit
 - HTML, CSS
 - Sass, Scss
+- React Testing Library, Jest
 - Git
 - Webpack
 - server: WebSocket, Express
@@ -44,6 +45,7 @@
 - :clapper: [Movie](https://github.com/tonyaber/movie-app-react) - app about movies. Stack: 
   - React, React Router, Styled Components
   - REST API
+  - Jest
 - :christmas_tree: [Сhristmas-task](https://github.com/tonyaber/christmas-task) is a game where you can choose toys and decorate the Christmas tree with them. You can also download a postcard with your holiday tree.  Stack: 
   - OOP, Single-page application, MVC
   - filtering and search (similar to an online store)
