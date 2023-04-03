@@ -1,4 +1,4 @@
-## Hello. My name is Antonina and I am studying to become a frontend developer
+## Hello. My name is Antonina and I am a frontend developer
 
  I have quite a lot of ready-made projects, the total time I wrote the code is: [![wakatime](https://wakatime.com/badge/user/4d615465-e0fd-4949-97cd-3e87fb7c0f6d.svg)](https://wakatime.com/@4d615465-e0fd-4949-97cd-3e87fb7c0f6d)
  
